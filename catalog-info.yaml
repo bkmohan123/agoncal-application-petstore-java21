@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: petstore-java21
+  description: Modernized Java 21 Petstore application
+  tags:
+    - java
+    - petstore
+spec:
+  type: service
+  lifecycle: production
+  owner: user:guest
