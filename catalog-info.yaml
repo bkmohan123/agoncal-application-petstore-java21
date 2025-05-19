@@ -2,7 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: petstore-java21
-  HEAD
   description: Modernized Petstore project using Java 21 and Maven
   annotations:
     github.com/project-slug: bkmohan123/agoncal-application-petstore-java21
@@ -11,13 +10,6 @@ spec:
   lifecycle: experimental
   owner: user:mohanbk
   system: modernized-petstore
-
-  description: Modernized Java 21 Petstore application
   tags:
     - java
     - petstore
-spec:
-  type: service
-  lifecycle: production
-  owner: user:guest
-   1f164ad9558977037cee9b253a66ea4e3df22956
