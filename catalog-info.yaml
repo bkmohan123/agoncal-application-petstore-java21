@@ -2,10 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: petstore-java21-catalog
-  description: Catalog for Petstore Java 21 entities
+  description: Catalog of all entities for Java 21 Petstore
 spec:
   type: url
   targets:
-    - ./component.yaml
-    - ./user-mohanbk.yaml
-    - ./system-modernized-petstore.yaml
+    - https://raw.githubusercontent.com/bkmohan123/agoncal-application-petstore-java21/main/component.yaml
+    - https://raw.githubusercontent.com/bkmohan123/agoncal-application-petstore-java21/main/user-mohanbk.yaml
+    - https://raw.githubusercontent.com/bkmohan123/agoncal-application-petstore-java21/main/system-modernized-petstore.yaml
