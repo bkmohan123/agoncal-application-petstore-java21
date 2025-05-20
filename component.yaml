@@ -7,9 +7,6 @@ metadata:
     github.com/project-slug: bkmohan123/agoncal-application-petstore-java21
 spec:
   type: service
-  lifecycle: experimental
-  owner: user:mohanbk
-  system: modernized-petstore
-  tags:
-    - java
-    - petstore
+  lifecycle: production
+  owner: user:default/mohanbk
+  system: system:default/modernized-petstore
