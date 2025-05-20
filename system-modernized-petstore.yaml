@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: modernized-petstore
+spec:
+  owner: user:mohanbk
+  description: System for the modernized Petstore project using Java 21
