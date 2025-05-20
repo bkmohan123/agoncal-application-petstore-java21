@@ -9,4 +9,4 @@ spec:
     - https://raw.githubusercontent.com/bkmohan123/agoncal-application-petstore-java21/main/component.yaml
     - https://raw.githubusercontent.com/bkmohan123/agoncal-application-petstore-java21/main/user-mohanbk.yaml
     - https://raw.githubusercontent.com/bkmohan123/agoncal-application-petstore-java21/main/system-modernized-petstore.yaml
-
+    - https://raw.githubusercontent.com/bkmohan123/agoncal-application-petstore-java21/main/group-default-team.yaml  # ✅ new
